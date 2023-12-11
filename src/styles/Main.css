@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    color: green;
+    background-color: rgba(0, 255, 255, 0.09);
+}
+button {
+    padding: 10px 10px;
+    border-radius: 5px;
+    border: 1px solid #041504;
+    background-color: cadetblue;
+    color: #090964;
+}
+input{
+    padding: 10px 12px;
+    border-radius: 5px;
+    border: 1px solid #041504;
+    background-color: #d70f3d;
+    color: #090964;
+}
+th{
+    color: #090964;
+    background-color: rgba(0, 255, 255, 0.09);
+}
